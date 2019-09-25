@@ -1,4 +1,4 @@
-# 02 - Intro to Pandas
+# 01 - Intro to Pandas
 
 In this tutorial session we explore the fundamental features of [Pandas](http://pandas.pydata.org/), and then we practice the basics of Data Wrangling with some real-world datasets.
 
