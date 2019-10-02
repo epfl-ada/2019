@@ -1,3 +1,2 @@
-# Homework
-Repo for ADA 2019 Homework
-
+# ADA2019-Homework
+Repo for homework assignments
