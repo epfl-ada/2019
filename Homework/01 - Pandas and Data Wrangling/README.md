@@ -2,7 +2,7 @@
 
 In this homework, you will familiarize yourself with *Pandas*, the most popular Python library for handling tabular data. In addition, you will create some basic visualizations and learn to scrape data from the Web. These are among a data scientist's bread and butter -- perfect Homework 1 material!
 
-The homework consists of `3` tasks which are described in the `hw1.ipynb` notebook.
+The homework consists of three tasks which are described in the `hw1.ipynb` notebook.
 
 For each task, please provide *both* a written explanation of the steps you followed, and the corresponding code. 
 Keep in mind that writing the explanation can help you in two ways:
