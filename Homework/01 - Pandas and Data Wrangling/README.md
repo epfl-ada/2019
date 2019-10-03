@@ -12,7 +12,7 @@ Keep in mind that writing the explanation can help you in two ways:
 ### Submission Guidelines
 You are expected to solve the homework as a team of four, which you specified in the course registration form. By the homework submission deadline, each team should have a single shared private github repo, containing the Jupyter Notebook with the solution. Please, follow the instructions below to create your team repo and start working on the homework:
 1. **One** team member should follow [this link](https://classroom.github.com/g/OGUlNgFN) and create a team with exactly the **same name** as specified in the course registration form.
-2. Creation of the team will automatically create a dedicated private repo. At this point the same team member should invite the remaining three teammates as collaborators.
+2. Creation of the team will automatically create a dedicated private repo. At this point the remaining three team-members should follow the [same link](https://classroom.github.com/g/OGUlNgFN) and join their team. *Make sure you are joining the correct team by checking your team-members' github accounts: there might be teams with similar or same names.*
 3. There is no simple automated way to transfer the materials for Homework 1 from the public course repository into your private team repository. To get started, we suggest that you manually pull the homework materials from the course repository to your local machine, copy them into your local team repository, and push to the remote.
 4. Afterwards -- keep collaborating on the homework as a team in your shared private repository!
 
