@@ -10,5 +10,5 @@ This is not meant to be an exhaustive documentation of the libraries, their feat
 
 ---
 
-Credits (intro) : Jérémie Rappaz
+Credits (intro) : Jérémie Rappaz  
 Credits (Folium): Dylan Bourgeois
