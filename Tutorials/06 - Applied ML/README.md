@@ -5,3 +5,5 @@ The goal of this tutorial is to get you familiar with scikit-learn, a popular ML
 ---
 
 Adapted from https://github.com/justmarkham
+
+Credits: Tiziano Piccardi, Valentin Hartmann (regularization part)
