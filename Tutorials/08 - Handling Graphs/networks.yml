@@ -37,7 +37,7 @@ dependencies:
   - zlib=1.2.11=h0b31af3_1006
   - pip:
     - decorator==4.4.1
-    - networkx==2.4
+    - networkx==2.2
     - python-louvain==0.13
 prefix: /anaconda3/envs/nada
 
