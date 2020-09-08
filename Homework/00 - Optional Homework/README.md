@@ -7,7 +7,7 @@ It's not necessary to generate visualizations for the results -- numbers should 
 were able to reproduce the results of that article.
 
 You can use this opportunity first of all to refresh your Python skills. If you are coming from another programming language
-(especially a static PL like Java and C++), I recommend you to take a look at this presentation:
+(especially a static PL like Java and C++), we recommend you to take a look at this presentation:
 [Code Like a Pythonista: Idiomatic Python](http://www.omahapython.org/IdiomaticPython.html) -- it will teach
 you how to write nice Python code, while at the same time getting you up to speed with the syntax.
 Feel free to explore more advanced libraries (like [Pandas](http://pandas.pydata.org/)) if you really want, but keep in mind that you
