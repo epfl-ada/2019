@@ -1,6 +1,6 @@
 # 00 - Optional homework
 
-For this initial homework we will be working with a [dataset](https://github.com/fivethirtyeight/guns-data/blob/master/interactive_data.csv) available as a part of an interesting analysis of [gunshot deaths in the US](http://fivethirtyeight.com/features/gun-deaths/). The goal of this optional homework is to carefully go through the interactive visualization portrayed at the top of the article, and use an IPython Notebook to reproduce the following claims made in the visualization:
+For this initial homework we will be working with a [dataset](https://github.com/fivethirtyeight/guns-data/blob/master/interactive_data.csv) available as a part of an interesting analysis of [gunshot deaths in the US](http://fivethirtyeight.com/features/gun-deaths/). The goal of this optional homework is to carefully go through the interactive visualization portrayed at the top of the aforementioned article, and use an IPython Notebook to reproduce the following claims made in the visualization:
 - Nearly *two-thirds* of gun deaths are *suicides*.
 - More than *85 percent* of suicide victims are *male*.
 - Around *a third* of all gun deaths are *homicides*.
