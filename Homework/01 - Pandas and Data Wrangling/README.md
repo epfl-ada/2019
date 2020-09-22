@@ -17,6 +17,7 @@ You are expected to solve the homework as a team of four, which you specified in
 4. Afterwards -- keep collaborating on the homework as a team in your shared private repository!
 
 ### Deliverables
-`hw1.ipynb` notebook with disclosed output for each cell. **Do not submit your `data` folder.**
+1. `hw1.ipynb` notebook with disclosed output for each cell. **Do not submit your `data` folder.**
+2. Detailed feedback on the V2 of HW1 via [this](https://forms.gle/q2GVN9TtHqKeBvjCAm) Google form.
 
 #### Deadline: October 16th, 23:59
